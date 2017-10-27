@@ -1,5 +1,5 @@
 {
-  "name": "san-devtools-hook",
+  "name": "san-store-hook",
   "version": "1.0.0",
   "description": "San Store hook for chrome extension.",
   "main": "index.js",
@@ -13,6 +13,7 @@
   "keywords": [
     "san-store",
     "san-hook",
+    "san-store-hook",
     "san-devtool-hook",
     "san-chrome-extension"
   ],
