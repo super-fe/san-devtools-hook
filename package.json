@@ -1,0 +1,25 @@
+{
+  "name": "san-devtools-hook",
+  "version": "1.0.0",
+  "description": "San Store hook for chrome extension.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/super-fe/san-devtools-hook.git"
+  },
+  "keywords": [
+    "san-store",
+    "san-hook",
+    "san-devtool-hook",
+    "san-chrome-extension"
+  ],
+  "author": "maxushuang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/super-fe/san-devtools-hook/issues"
+  },
+  "homepage": "https://github.com/super-fe/san-devtools-hook#readme"
+}
